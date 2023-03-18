@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios", "Funcionarios\Funcionarios.csproj", "{CDE089F3-31D0-41C9-BE44-9BB9A5A5F44A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteFuncionario", "TesteFuncionario\TesteFuncionario.csproj", "{C41B919C-10E3-43B2-8617-E08F5E3450EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteFuncionario", "TesteFuncionario\TesteFuncionario.csproj", "{C41B919C-10E3-43B2-8617-E08F5E3450EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteFuncionarios", "TesteFuncionarios\TesteFuncionarios.csproj", "{5BFED6B8-224C-4F7A-A6EF-BF8CB5052237}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C41B919C-10E3-43B2-8617-E08F5E3450EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C41B919C-10E3-43B2-8617-E08F5E3450EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C41B919C-10E3-43B2-8617-E08F5E3450EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFED6B8-224C-4F7A-A6EF-BF8CB5052237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFED6B8-224C-4F7A-A6EF-BF8CB5052237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFED6B8-224C-4F7A-A6EF-BF8CB5052237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFED6B8-224C-4F7A-A6EF-BF8CB5052237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

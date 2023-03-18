@@ -2,6 +2,7 @@
 {
     public class Funcionario
     {
+        public Guid id { get; set; }
         public string Nome { get; set; }
         public int Idade { get; set; }
         public string Cargo { get; set; }
